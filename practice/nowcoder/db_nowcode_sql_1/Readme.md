@@ -16,6 +16,8 @@ PRIMARY KEY (`emp_no`));
 
 [Problem Link](https://www.nowcoder.com/practice/218ae58dfdcd4af195fff264e062138f?tpId=82&&tqId=29753&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
+## Solution
+
 ```sql
 select * from employees ORDER BY hire_date DESC LIMIT 1
 ```
