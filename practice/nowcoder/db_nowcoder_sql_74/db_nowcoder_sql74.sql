@@ -29,8 +29,8 @@ INSERT INTO `garde` VALUES (2, 1, 13000);
 INSERT INTO `garde` VALUES (3, 2, 11000);
 INSERT INTO `garde` VALUES (4, 2, 10000);
 INSERT INTO `garde` VALUES (5, 3, 11000);
-INSERT INTO `garde` VALUES (6, 2, 11000);
-INSERT INTO `garde` VALUES (7, 1, 11000);
+INSERT INTO `garde` VALUES (6, 1, 11000);
+INSERT INTO `garde` VALUES (7, 2, 11000);
 
 -- ----------------------------
 -- Table structure for language

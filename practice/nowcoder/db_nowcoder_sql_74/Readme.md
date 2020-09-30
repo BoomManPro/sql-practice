@@ -23,7 +23,7 @@ WHERE
 	FROM
 		garde g2
 	WHERE
-		g2.score > g1.score
+		g2.score >= g1.score
 		AND g1.language_id = g2.language_id
 	) <= 2
 ORDER BY
